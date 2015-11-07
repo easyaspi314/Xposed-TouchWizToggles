@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="QuickSettingButtonAttribute">
+        <item>Wifi</item>
+		<item>MobileData</item>
+        <item>Bluetooth</item>
+        <item>Location</item>
+        <item>SilentMode</item>
+        <item>AutoRotate</item>
+        <item>AirplaneMode</item>
+        <item>PowerSaving</item>
+        <item>DrivingMode</item>
+        <item>AllShareCast</item>
+		<item>Sync</item>
+    </string-array>
+	<string-array name="PossibleQuickSettingValues">
+		<item>Wifi</item>
+		<item>MobileData</item>
+        <item>Bluetooth</item>
+        <item>Location</item>
+        <item>SilentMode</item>
+        <item>AutoRotate</item>
+        <item>AirplaneMode</item>
+        <item>PowerSaving</item>
+        <item>DrivingMode</item>
+        <item>AllShareCast</item>
+		<item>Sync</item>
+		<item>SBeam</item>
+		<item>SmartStay</item>
+		<item>DoNotDisturb</item>
+		<item>MultiWindow</item>
+		<item>DrivingMode</item>
+		<item>NfcP2P</item>
+		<item>DormantMode</item>
+	</string-array>
+	<string-array name="PossibleQuickSettingNames">
+		<item>Wi-Fi</item>
+		<item>Mobile data</item>
+        <item>Bluetooth</item>
+        <item>GPS</item>
+        <item>Ringer</item>
+        <item>Screen rotation</item>
+        <item>Flight mode</item>
+        <item>Power Saving</item>
+        <item>Driving mode</item>
+        <item>AllShare Cast</item>
+		<item>Sync</item>
+		<item>S Beam</item>
+		<item>Smart stay</item>
+		<item>Do not disturb</item>
+		<item>Multi window</item>
+		<item>Driving mode</item>
+		<item>NFC</item>
+		<item>Blocking mode</item>
+	</string-array>
+</resources>
